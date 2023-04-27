@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--소개-->
   
 ## Introduction ✋🏻
-HI! I'm ""SW"", and I will work in the ""SW"" industry Until 10 years before I died.🍵
+HI! I'm "SW", and I will work in the "SW" industry Until 10 years before I died.🍵
 <br/><br/>
   
 <!--기술스택-->
