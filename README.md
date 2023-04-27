@@ -62,7 +62,7 @@ Hi, I am trying to become a nice developer😎
   
    <!--알고리즘 -->
    
-## Problem Solving :muscle: 
+## Problem Solving ✏️
   
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=krgreenteabro)](https://solved.ac/krgreenteabro)
@@ -70,6 +70,8 @@ Hi, I am trying to become a nice developer😎
 <br/><br/>
 
 <!--언어 타입 -->
+ 
+## Language Ratio 💡
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawnteaStudio&layout=compact)](https://github.com/DawnteaStudio/github-readme-stats)
   
