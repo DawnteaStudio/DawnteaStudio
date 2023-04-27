@@ -46,7 +46,7 @@ Hi, I am trying to become a nice developer😎
  
   ## Studying  🛠️
   
-     <!--프론트-->
+   <!-- -->
  
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
   <!--백-->
@@ -69,7 +69,7 @@ Hi, I am trying to become a nice developer😎
   
 <br/><br/>
 
-     <!--언어 타입 -->   
+<!--언어 타입 -->
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DawnteaStudio&layout=compact)](https://github.com/DawnteaStudio/github-readme-stats)
   
