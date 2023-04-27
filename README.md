@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=Dawntea-nl-Studio🍵&fontSize=60&animation=twinkling)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=Dawntea-nl-Studio🍵&fontSize=60&animation=twinkling" alt="header">
+</p>
 <br/><br/>
 
 <div align=center>
