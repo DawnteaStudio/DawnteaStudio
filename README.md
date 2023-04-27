@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=Dawntea-nl-%20%20%20Studio&fontSize=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=Dawntea-nl-Studio🍵&fontSize=60&animation=twinkling)
