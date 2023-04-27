@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **DawnteaStudio/DawnteaStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +15,8 @@ Here are some ideas to get you started:
 
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=Dawntea-nl-Studio🍵&fontSize=60&animation=twinkling)
+
+<div align=center>
+<!--소개-->
+  
+## Introduction : ✋🏻:
