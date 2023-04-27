@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--소개-->
   
 ## Introduction ✋🏻
-Hi, I am trying to become a nice developer😎
+HI! I'm ""SW"", and I will work in the ""SW"" industry Until 10 years before I died.🍵
 <br/><br/>
   
 <!--기술스택-->
@@ -67,7 +67,7 @@ Hi, I am trying to become a nice developer😎
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=krgreenteabro)](https://solved.ac/krgreenteabro)
   
-<br/><br/>
+<br/>
 
 <!--언어 타입 -->
  
