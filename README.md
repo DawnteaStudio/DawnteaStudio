@@ -114,7 +114,6 @@
 
 #### 🔹 Algorithms & Problem Solving
 - **push_swap** – 제한 연산으로 스택 정렬 알고리즘 구현 → **시간 복잡도 최적화**  
-- **Exam Rank** – 제한 시간 내 알고리즘 풀이 → **실전 코딩 역량 검증**
 
 ---
 
@@ -140,6 +139,11 @@
 - **ft_irc** – IRC 프로토콜 채팅 서버 → **소켓 프로그래밍·비동기 네트워크 처리**
 
 ---
+
+### 🔹 DevOps & Infra
+- **Inception** – Docker Compose 기반으로 Nginx, WordPress, MariaDB 컨테이너화  
+  → **컨테이너 오케스트레이션·볼륨 관리·네트워크 구성 경험**
+
 
 #### 🔹 Final Fullstack Project
 - **ft_transcendence** – Fastify + TypeScript + SQLite  
