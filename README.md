@@ -86,7 +86,8 @@
 - **우클링** (2026)  
   *Java, Spring Boot, PostgreSQL, S3, OpenAPI*  
   - 공방 수업 운영 서비스의 백엔드 담당. 강사 페이지와 공통 수강 관리 기능 제안  
-  - 용어사전 → 논리 모델 → 물리 컬럼 → ERD → Swagger 명세 → API 구현. Codex로 승인 버전별 ERD 탐색기 제작  
+  - 용어사전 → 논리 모델 → 물리 컬럼 → ERD → Swagger 명세 → API 구현  
+  - 팀의 [데이터 모델링 하네스](https://ucling-data-model-portal.vercel.app/) 직접 설계: Codex의 제안과 확정 사항을 구분해 기록하고, 승인된 ERD를 버전별로 조회  
   - 회원가입 재시도 시 최초 동의 보존, 프로필 이미지 업로드 복구 및 마이페이지 API 연동
 
 - **TIL / til-studio** (2026)  
